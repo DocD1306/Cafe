@@ -13,6 +13,17 @@ header {
     padding: 20px;
     text-align: center;
 }
+/*
+
+Imagenes de la carta
+
+img {
+    width: 800px;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+}
+*/
 
 h1 {
     margin: 0;
@@ -61,3 +72,4 @@ footer {
     background-color: #f1f1f1;
     color: #333;
 }
+
